@@ -1,0 +1,7 @@
+{
+  "name": "Lesson Notes AI",
+  "description": "An AI-powered web application that records class lectures or meetings and automatically generates structured, comprehensive notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
